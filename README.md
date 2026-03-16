@@ -6,6 +6,7 @@ Built using **Python**, **Scikit-learn**, and **Streamlit** for real-time web ap
 ---
 
 ## 📂 Project Structure
+
 SMS-Spam-Detection/
 │
 ├── app.py # Streamlit application
