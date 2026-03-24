@@ -7,18 +7,20 @@ Built using **Python**, **Scikit-learn**, and **Streamlit** for real-time web ap
 
 ## 📂 Project Structure
 
+```
 SMS-Spam-Detection/
 │
-├── app.py # Streamlit application
+├── app.py                  # Streamlit application
 ├── models/
-│ ├── model.pkl # Trained ML model
-│ └── vectorizer.pkl # TF-IDF vectorizer
+│   ├── model.pkl           # Trained ML model
+│   └── vectorizer.pkl      # TF-IDF vectorizer
 ├── notebooks/
-│ └── SMS_Spam_Detection_Workflow.ipynb
+│   └── SMS_Spam_Detection_Workflow.ipynb
 ├── data/
-│ └── spam.csv # Original dataset
-├── requirements.txt # Python dependencies
+│   └── spam.csv            # Original dataset
+├── requirements.txt        # Python dependencies
 └── README.md
+```
 
 
 
@@ -26,7 +28,7 @@ SMS-Spam-Detection/
 
 ## 🛠 Technologies & Libraries
 
-- Python 3.x  
+- Python 3.14.3
 - Pandas, Numpy  
 - Scikit-learn (TF-IDF + Naive Bayes)  
 - NLTK (for text preprocessing)  
