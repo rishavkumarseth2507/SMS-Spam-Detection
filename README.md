@@ -49,15 +49,15 @@ SMS-Spam-Detection/
 ## 🚀 How to Run Locally
 
 1. Clone the repo:
-
 ```bash
 git clone https://github.com/rishavkumarseth2507/SMS-Spam-Detection.git
 cd SMS-Spam-Detection
 '''
 
 Install dependencies:
+```bash
 pip install -r requirements.txt
-
+'''
 
 Run Streamlit app:
 python -m streamlit run app.py
