@@ -52,15 +52,19 @@ SMS-Spam-Detection/
 ```bash
 git clone https://github.com/rishavkumarseth2507/SMS-Spam-Detection.git
 cd SMS-Spam-Detection
-'''
+```
 
 Install dependencies:
 ```bash
 pip install -r requirements.txt
-'''
+```
 
 Run Streamlit app:
+```bash
 python -m streamlit run app.py
+```
+
+---------------------------------------------
 
 
 📝 Author
